@@ -1,9 +1,9 @@
 # Chorus Lapilli
 
-1. A tic-tac-toe application built using React.
+* A tic-tac-toe application built using React.
 
-2. A chorus lapilli application built using React. Chorus lapilli is like tic-tac-toe in that players take turn placing pieces on a 3×3 board and the goal is to get three pieces in a row. However, it differs from tic-tac-toe in two ways:
+* A chorus lapilli application built using React. Chorus lapilli is like tic-tac-toe in that players take turn placing pieces on a 3×3 board and the goal is to get three pieces in a row. However, it differs from tic-tac-toe in two ways:
 
-  1. After your first three moves, instead of adding further pieces you must instead move one of your existing pieces to an empty square that is adjacent vertically, horizontally, or diagonally. Therefore, after your third move you always occupy three squares.
+		* After your first three moves, instead of adding further pieces you must instead move one of your existing pieces to an empty square that is adjacent vertically, horizontally, or diagonally. Therefore, after your third move you always occupy three squares.
 
-  2. If you have three pieces on the board and one of your pieces is in the center square, you must either win or vacate the center square in your next move.
+		* If you have three pieces on the board and one of your pieces is in the center square, you must either win or vacate the center square in your next move.
